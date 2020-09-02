@@ -1,1 +1,1 @@
-This is based on developing API's and obtaining the required information in the form of JSON for further frontend operations.
+This is based on developing API's and obtaining the required information in the form of JSON for further frontend operations. The working API was then deployed on PytonAnywhere as it is very wasy to use. Some other platforms where it can deployed include Heroku, AWS, GCP etc.
